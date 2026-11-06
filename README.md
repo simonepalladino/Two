@@ -1,4 +1,4 @@
-# 📱 Two-App
+# 📱 Two
 
 [![Apple Foundation Program](https://img.shields.io/badge/Program-Apple%20iOS%20Foundation%20Program-black.svg)](https://developer.apple.com/)
 [![Platform](https://img.shields.io/badge/Platform-iOS-lightgrey.svg)](https://apple.com)
@@ -38,16 +38,4 @@
 ### Prerequisites
 
 * A Mac running macOS
-* Xcode (latest version recommended)
-
-### Build & Run
-
-```bash
-# Clone the repository
-git clone [https://github.com/your-username/Two-App.git](https://github.com/your-username/Two-App.git)
-
-# Navigate into the project folder
-cd Two-App
-
-# Open the project in Xcode
-open Two-App.xcodeproj
+* Xcode (latest version recommended
